@@ -1,0 +1,332 @@
+2024-10-18 00:51:18: Processing order_001.xml
+2024-10-18 00:51:18: Processed order_001.xml successfully.
+2024-10-18 00:51:18: Processing order_002.xml
+2024-10-18 00:51:18: Processed order_002.xml successfully.
+2024-10-18 00:51:18: Processing order_003.xml
+2024-10-18 00:51:18: Processed order_003.xml successfully.
+2024-10-18 00:51:18: Processing order_004.xml
+2024-10-18 00:51:18: Processed order_004.xml successfully.
+2024-10-18 00:51:18: Processing order_005.xml
+2024-10-18 00:51:18: Processed order_005.xml successfully.
+2024-10-18 00:51:18: Processing order_006.xml
+2024-10-18 00:51:18: Processed order_006.xml successfully.
+2024-10-18 00:51:18: Processing order_007.xml
+2024-10-18 00:51:18: Processed order_007.xml successfully.
+2024-10-18 00:51:18: Processing order_008.xml
+2024-10-18 00:51:18: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 00:51:18: Skipping order_008.xml due to errors.
+2024-10-18 00:51:18: Processing order_009.xml
+2024-10-18 00:51:18: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 00:51:18: Skipping order_009.xml due to errors.
+2024-10-18 00:51:18: Processing order_010.xml
+2024-10-18 00:51:18: Processed order_010.xml successfully.
+2024-10-18 00:54:46: Processing order_001.xml
+2024-10-18 00:54:46: Processed order_001.xml successfully.
+2024-10-18 00:54:46: Processing order_002.xml
+2024-10-18 00:54:46: Processed order_002.xml successfully.
+2024-10-18 00:54:46: Processing order_003.xml
+2024-10-18 00:54:46: Processed order_003.xml successfully.
+2024-10-18 00:54:46: Processing order_004.xml
+2024-10-18 00:54:46: Processed order_004.xml successfully.
+2024-10-18 00:54:46: Processing order_005.xml
+2024-10-18 00:54:46: Processed order_005.xml successfully.
+2024-10-18 00:54:46: Processing order_006.xml
+2024-10-18 00:54:46: Processed order_006.xml successfully.
+2024-10-18 00:54:46: Processing order_007.xml
+2024-10-18 00:54:46: Processed order_007.xml successfully.
+2024-10-18 00:54:46: Processing order_008.xml
+2024-10-18 00:54:46: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 00:54:46: Skipping order_008.xml due to errors.
+2024-10-18 00:54:46: Processing order_009.xml
+2024-10-18 00:54:46: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 00:54:46: Skipping order_009.xml due to errors.
+2024-10-18 00:54:46: Processing order_010.xml
+2024-10-18 00:54:46: Processed order_010.xml successfully.
+2024-10-18 00:56:55: Processing order_001.xml
+2024-10-18 00:56:55: Processed order_001.xml successfully.
+2024-10-18 00:56:55: Processing order_002.xml
+2024-10-18 00:56:55: Processed order_002.xml successfully.
+2024-10-18 00:56:55: Processing order_003.xml
+2024-10-18 00:56:55: Processed order_003.xml successfully.
+2024-10-18 00:56:55: Processing order_004.xml
+2024-10-18 00:56:55: Processed order_004.xml successfully.
+2024-10-18 00:56:55: Processing order_005.xml
+2024-10-18 00:56:55: Processed order_005.xml successfully.
+2024-10-18 00:56:55: Processing order_006.xml
+2024-10-18 00:56:55: Processed order_006.xml successfully.
+2024-10-18 00:56:55: Processing order_007.xml
+2024-10-18 00:56:55: Processed order_007.xml successfully.
+2024-10-18 00:56:55: Processing order_008.xml
+2024-10-18 00:56:55: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 00:56:55: Skipping order_008.xml due to errors.
+2024-10-18 00:56:55: Processing order_009.xml
+2024-10-18 00:56:55: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 00:56:55: Skipping order_009.xml due to errors.
+2024-10-18 00:56:55: Processing order_010.xml
+2024-10-18 00:56:55: Processed order_010.xml successfully.
+2024-10-18 00:57:08: Processing order_001.xml
+2024-10-18 00:57:08: Processed order_001.xml successfully.
+2024-10-18 00:57:08: Processing order_002.xml
+2024-10-18 00:57:08: Processed order_002.xml successfully.
+2024-10-18 00:57:08: Processing order_003.xml
+2024-10-18 00:57:08: Processed order_003.xml successfully.
+2024-10-18 00:57:08: Processing order_004.xml
+2024-10-18 00:57:08: Processed order_004.xml successfully.
+2024-10-18 00:57:08: Processing order_005.xml
+2024-10-18 00:57:08: Processed order_005.xml successfully.
+2024-10-18 00:57:08: Processing order_006.xml
+2024-10-18 00:57:08: Processed order_006.xml successfully.
+2024-10-18 00:57:08: Processing order_007.xml
+2024-10-18 00:57:08: Processed order_007.xml successfully.
+2024-10-18 00:57:08: Processing order_008.xml
+2024-10-18 00:57:08: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 00:57:08: Skipping order_008.xml due to errors.
+2024-10-18 00:57:08: Processing order_009.xml
+2024-10-18 00:57:08: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 00:57:08: Skipping order_009.xml due to errors.
+2024-10-18 00:57:08: Processing order_010.xml
+2024-10-18 00:57:08: Processed order_010.xml successfully.
+2024-10-18 00:59:41: Processing order_001.xml
+2024-10-18 00:59:41: Processed order_001.xml successfully.
+2024-10-18 00:59:41: Processing order_002.xml
+2024-10-18 00:59:41: Processed order_002.xml successfully.
+2024-10-18 00:59:41: Processing order_003.xml
+2024-10-18 00:59:41: Processed order_003.xml successfully.
+2024-10-18 00:59:41: Processing order_004.xml
+2024-10-18 00:59:42: Processed order_004.xml successfully.
+2024-10-18 00:59:42: Processing order_005.xml
+2024-10-18 00:59:42: Processed order_005.xml successfully.
+2024-10-18 00:59:42: Processing order_006.xml
+2024-10-18 00:59:42: Processed order_006.xml successfully.
+2024-10-18 00:59:42: Processing order_007.xml
+2024-10-18 00:59:42: Processed order_007.xml successfully.
+2024-10-18 00:59:42: Processing order_008.xml
+2024-10-18 00:59:42: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 00:59:42: Skipping order_008.xml due to errors.
+2024-10-18 00:59:42: Processing order_009.xml
+2024-10-18 00:59:42: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 00:59:42: Skipping order_009.xml due to errors.
+2024-10-18 00:59:42: Processing order_010.xml
+2024-10-18 00:59:42: Processed order_010.xml successfully.
+2024-10-18 01:07:02: Processing order_001.xml
+2024-10-18 01:07:02: Processed order_001.xml successfully.
+2024-10-18 01:07:02: Processing order_002.xml
+2024-10-18 01:07:02: Processed order_002.xml successfully.
+2024-10-18 01:07:02: Processing order_003.xml
+2024-10-18 01:07:02: Processed order_003.xml successfully.
+2024-10-18 01:07:02: Processing order_004.xml
+2024-10-18 01:07:02: Processed order_004.xml successfully.
+2024-10-18 01:07:02: Processing order_005.xml
+2024-10-18 01:07:02: Processed order_005.xml successfully.
+2024-10-18 01:07:02: Processing order_006.xml
+2024-10-18 01:07:02: Processed order_006.xml successfully.
+2024-10-18 01:07:02: Processing order_007.xml
+2024-10-18 01:07:02: Processed order_007.xml successfully.
+2024-10-18 01:07:02: Processing order_008.xml
+2024-10-18 01:07:02: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 01:07:02: Skipping order_008.xml due to errors.
+2024-10-18 01:07:02: Processing order_009.xml
+2024-10-18 01:07:02: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 01:07:02: Skipping order_009.xml due to errors.
+2024-10-18 01:07:02: Processing order_010.xml
+2024-10-18 01:07:02: Processed order_010.xml successfully.
+2024-10-18 01:28:35: Processing order_001.xml
+2024-10-18 01:28:35: Processed order_001.xml successfully.
+2024-10-18 01:28:35: Processing order_002.xml
+2024-10-18 01:28:35: Processed order_002.xml successfully.
+2024-10-18 01:28:35: Processing order_003.xml
+2024-10-18 01:28:35: Processed order_003.xml successfully.
+2024-10-18 01:28:35: Processing order_004.xml
+2024-10-18 01:28:35: Processed order_004.xml successfully.
+2024-10-18 01:28:35: Processing order_005.xml
+2024-10-18 01:28:35: Processed order_005.xml successfully.
+2024-10-18 01:28:35: Processing order_006.xml
+2024-10-18 01:28:35: Processed order_006.xml successfully.
+2024-10-18 01:28:35: Processing order_007.xml
+2024-10-18 01:28:36: Processed order_007.xml successfully.
+2024-10-18 01:28:36: Processing order_008.xml
+2024-10-18 01:28:36: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 01:28:36: Skipping order_008.xml due to errors.
+2024-10-18 01:28:36: Processing order_009.xml
+2024-10-18 01:28:36: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 01:28:36: Skipping order_009.xml due to errors.
+2024-10-18 01:28:36: Processing order_010.xml
+2024-10-18 01:28:36: Processed order_010.xml successfully.
+2024-10-18 01:31:06: Processing order_001.xml
+2024-10-18 01:31:06: Processed order_001.xml successfully.
+2024-10-18 01:31:06: Processing order_002.xml
+2024-10-18 01:31:06: Processed order_002.xml successfully.
+2024-10-18 01:31:06: Processing order_003.xml
+2024-10-18 01:31:06: Processed order_003.xml successfully.
+2024-10-18 01:31:06: Processing order_004.xml
+2024-10-18 01:31:06: Processed order_004.xml successfully.
+2024-10-18 01:31:06: Processing order_005.xml
+2024-10-18 01:31:06: Processed order_005.xml successfully.
+2024-10-18 01:31:06: Processing order_006.xml
+2024-10-18 01:31:06: Processed order_006.xml successfully.
+2024-10-18 01:31:06: Processing order_007.xml
+2024-10-18 01:31:06: Processed order_007.xml successfully.
+2024-10-18 01:31:06: Processing order_008.xml
+2024-10-18 01:31:06: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 01:31:06: Skipping order_008.xml due to errors.
+2024-10-18 01:31:06: Processing order_009.xml
+2024-10-18 01:31:06: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 01:31:06: Skipping order_009.xml due to errors.
+2024-10-18 01:31:06: Processing order_010.xml
+2024-10-18 01:31:06: Processed order_010.xml successfully.
+2024-10-18 01:57:33: Processing order_001.xml
+2024-10-18 01:57:33: Processed order_001.xml successfully.
+2024-10-18 01:57:33: Processing order_002.xml
+2024-10-18 01:57:34: Processed order_002.xml successfully.
+2024-10-18 01:57:34: Processing order_003.xml
+2024-10-18 01:57:34: Processed order_003.xml successfully.
+2024-10-18 01:57:34: Processing order_004.xml
+2024-10-18 01:57:34: Processed order_004.xml successfully.
+2024-10-18 01:57:34: Processing order_005.xml
+2024-10-18 01:57:34: Processed order_005.xml successfully.
+2024-10-18 01:57:34: Processing order_006.xml
+2024-10-18 01:57:34: Processed order_006.xml successfully.
+2024-10-18 01:57:34: Processing order_007.xml
+2024-10-18 01:57:34: Processed order_007.xml successfully.
+2024-10-18 01:57:34: Processing order_008.xml
+2024-10-18 01:57:34: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 01:57:34: Skipping order_008.xml due to errors.
+2024-10-18 01:57:34: Processing order_009.xml
+2024-10-18 01:57:34: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 01:57:34: Skipping order_009.xml due to errors.
+2024-10-18 01:57:34: Processing order_010.xml
+2024-10-18 01:57:34: Processed order_010.xml successfully.
+2024-10-18 02:09:06: Processing order_001.xml
+2024-10-18 02:09:06: Processed order_001.xml successfully.
+2024-10-18 02:09:06: Processing order_002.xml
+2024-10-18 02:09:06: Processed order_002.xml successfully.
+2024-10-18 02:09:06: Processing order_003.xml
+2024-10-18 02:09:06: Processed order_003.xml successfully.
+2024-10-18 02:09:06: Processing order_004.xml
+2024-10-18 02:09:06: Processed order_004.xml successfully.
+2024-10-18 02:09:06: Processing order_005.xml
+2024-10-18 02:09:06: Processed order_005.xml successfully.
+2024-10-18 02:09:06: Processing order_006.xml
+2024-10-18 02:09:06: Processed order_006.xml successfully.
+2024-10-18 02:09:06: Processing order_007.xml
+2024-10-18 02:09:06: Processed order_007.xml successfully.
+2024-10-18 02:09:06: Processing order_008.xml
+2024-10-18 02:09:06: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:09:06: Skipping order_008.xml due to errors.
+2024-10-18 02:09:06: Processing order_009.xml
+2024-10-18 02:09:06: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:09:06: Skipping order_009.xml due to errors.
+2024-10-18 02:09:06: Processing order_010.xml
+2024-10-18 02:09:06: Processed order_010.xml successfully.
+2024-10-18 02:21:08: Processing order_001.xml
+2024-10-18 02:21:08: Processed order_001.xml successfully.
+2024-10-18 02:21:08: Processing order_002.xml
+2024-10-18 02:21:08: Processed order_002.xml successfully.
+2024-10-18 02:21:08: Processing order_003.xml
+2024-10-18 02:21:08: Processed order_003.xml successfully.
+2024-10-18 02:21:08: Processing order_004.xml
+2024-10-18 02:21:08: Processed order_004.xml successfully.
+2024-10-18 02:21:08: Processing order_005.xml
+2024-10-18 02:21:08: Processed order_005.xml successfully.
+2024-10-18 02:21:08: Processing order_006.xml
+2024-10-18 02:21:08: Processed order_006.xml successfully.
+2024-10-18 02:21:08: Processing order_007.xml
+2024-10-18 02:21:08: Processed order_007.xml successfully.
+2024-10-18 02:21:08: Processing order_008.xml
+2024-10-18 02:21:08: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:21:08: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:21:08: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:21:08: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml after 3 attempts.
+2024-10-18 02:21:08: Skipping order_008.xml due to errors.
+2024-10-18 02:21:08: Processing order_009.xml
+2024-10-18 02:21:08: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:21:08: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:21:08: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:21:08: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml after 3 attempts.
+2024-10-18 02:21:08: Skipping order_009.xml due to errors.
+2024-10-18 02:21:08: Processing order_010.xml
+2024-10-18 02:21:08: Processed order_010.xml successfully.
+2024-10-18 02:30:42: Processing order_001.xml
+2024-10-18 02:30:42: Processed order_001.xml successfully.
+2024-10-18 02:30:42: Processing order_002.xml
+2024-10-18 02:30:42: Processed order_002.xml successfully.
+2024-10-18 02:30:42: Processing order_003.xml
+2024-10-18 02:30:42: Processed order_003.xml successfully.
+2024-10-18 02:30:42: Processing order_004.xml
+2024-10-18 02:30:42: Processed order_004.xml successfully.
+2024-10-18 02:30:42: Processing order_005.xml
+2024-10-18 02:30:42: Processed order_005.xml successfully.
+2024-10-18 02:30:42: Processing order_006.xml
+2024-10-18 02:30:42: Processed order_006.xml successfully.
+2024-10-18 02:30:42: Processing order_007.xml
+2024-10-18 02:30:42: Processed order_007.xml successfully.
+2024-10-18 02:30:42: Processing order_008.xml
+2024-10-18 02:30:42: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:30:42: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:30:42: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:30:42: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml after 3 attempts.
+2024-10-18 02:30:42: Skipping order_008.xml due to errors.
+2024-10-18 02:30:42: Processing order_009.xml
+2024-10-18 02:30:42: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:30:42: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:30:42: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:30:42: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml after 3 attempts.
+2024-10-18 02:30:42: Skipping order_009.xml due to errors.
+2024-10-18 02:30:42: Processing order_010.xml
+2024-10-18 02:30:42: Processed order_010.xml successfully.
+2024-10-18 02:32:28: Processing order_001.xml
+2024-10-18 02:32:28: Processed order_001.xml successfully.
+2024-10-18 02:32:28: Processing order_002.xml
+2024-10-18 02:32:28: Processed order_002.xml successfully.
+2024-10-18 02:32:28: Processing order_003.xml
+2024-10-18 02:32:28: Processed order_003.xml successfully.
+2024-10-18 02:32:28: Processing order_004.xml
+2024-10-18 02:32:28: Processed order_004.xml successfully.
+2024-10-18 02:32:28: Processing order_005.xml
+2024-10-18 02:32:28: Processed order_005.xml successfully.
+2024-10-18 02:32:28: Processing order_006.xml
+2024-10-18 02:32:28: Processed order_006.xml successfully.
+2024-10-18 02:32:28: Processing order_007.xml
+2024-10-18 02:32:28: Processed order_007.xml successfully.
+2024-10-18 02:32:28: Processing order_008.xml
+2024-10-18 02:32:28: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:32:28: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:32:28: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 02:32:28: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_008.xml after 3 attempts.
+2024-10-18 02:32:28: Skipping order_008.xml due to errors.
+2024-10-18 02:32:28: Processing order_009.xml
+2024-10-18 02:32:28: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:32:28: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:32:28: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 02:32:28: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\parsing\xml-files-base\order_009.xml after 3 attempts.
+2024-10-18 02:32:28: Skipping order_009.xml due to errors.
+2024-10-18 02:32:28: Processing order_010.xml
+2024-10-18 02:32:28: Processed order_010.xml successfully.
+2024-10-18 13:33:50: Processing order_001.xml
+2024-10-18 13:33:50: Processed order_001.xml successfully.
+2024-10-18 13:33:50: Processing order_002.xml
+2024-10-18 13:33:50: Processed order_002.xml successfully.
+2024-10-18 13:33:50: Processing order_003.xml
+2024-10-18 13:33:51: Processed order_003.xml successfully.
+2024-10-18 13:33:51: Processing order_004.xml
+2024-10-18 13:33:51: Processed order_004.xml successfully.
+2024-10-18 13:33:51: Processing order_005.xml
+2024-10-18 13:33:51: Processed order_005.xml successfully.
+2024-10-18 13:33:51: Processing order_006.xml
+2024-10-18 13:33:51: Processed order_006.xml successfully.
+2024-10-18 13:33:51: Processing order_007.xml
+2024-10-18 13:33:51: Processed order_007.xml successfully.
+2024-10-18 13:33:51: Processing order_008.xml
+2024-10-18 13:33:51: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 13:33:51: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 13:33:51: Missing element in C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_008.xml - 'NoneType' object has no attribute 'text'
+2024-10-18 13:33:51: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_008.xml after 3 attempts.
+2024-10-18 13:33:51: Skipping order_008.xml due to errors.
+2024-10-18 13:33:51: Processing order_009.xml
+2024-10-18 13:33:51: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 13:33:51: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 13:33:51: Parsing error in C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_009.xml - not well-formed (invalid token): line 8, column 4
+2024-10-18 13:33:51: Failed to process C:\Users\sandh\OneDrive\Desktop\VS Code\python\H2N_DEV_Interview\xml-files-base\order_009.xml after 3 attempts.
+2024-10-18 13:33:51: Skipping order_009.xml due to errors.
+2024-10-18 13:33:51: Processing order_010.xml
+2024-10-18 13:33:51: Processed order_010.xml successfully.
